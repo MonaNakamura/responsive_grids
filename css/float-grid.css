@@ -57,17 +57,20 @@
   .col-3 {
     width: 25%;
   }
+  }
 
   /* 4 columns */
   .col-4 {
+    width: 33.33333%;
   }
 
   /* 6 columns */
   .col-6 {
-
+    width: 50%;
   }
 
   /* 12 columns */
   .col-12 {
+    width: 100%;
   }
 }
